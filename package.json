@@ -10,14 +10,19 @@
     "serve": "vite preview"
   },
   "dependencies": {
+    "vite": "^7.0.4",
     "vue": "^3.3.4",
     "vue-router": "^4.2.4"
   },
   "devDependencies": {
-    "@vitejs/plugin-vue": "^4.3.4",
-    "vite": "^4.4.9"
+    "@vitejs/plugin-vue": "^6.0.0"
   },
-  "keywords": ["vue", "invoice", "generator", "web-app"],
+  "keywords": [
+    "vue",
+    "invoice",
+    "generator",
+    "web-app"
+  ],
   "author": "Invoice Generator",
   "license": "MIT"
-} 
+}
