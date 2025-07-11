@@ -54,7 +54,7 @@
     <section class="features">
       <div class="container">
         <div class="section-header text-center">
-          <h2>Why Choose InvoicrGen?</h2>
+          <h2>Why Choose Invoicely?</h2>
           <p>Everything you need to create simple invoices quickly.</p>
         </div>
         
@@ -103,7 +103,7 @@
       <div class="container">
         <div class="cta-content text-center">
           <h2>Ready to Get Started?</h2>
-          <p>Join thousands of professionals who trust InvoicrGen for their invoicing needs.</p>
+          <p>Join thousands of professionals who trust Invoicely for their invoicing needs.</p>
           <router-link to="/create" class="btn btn-primary btn-large">
             <span>🎯</span>
             Start Creating Invoices

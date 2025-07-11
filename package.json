@@ -1,7 +1,7 @@
 {
-  "name": "invoicrgen",
+  "name": "invoicely",
   "version": "1.0.0",
-  "description": "A Vue.js invoice generation web application",
+  "description": "A Vue.js invoice generation web application called Invoicely",
   "main": "index.js",
   "scripts": {
     "dev": "vite",

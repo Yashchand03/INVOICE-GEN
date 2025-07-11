@@ -4,7 +4,7 @@
       <div class="nav-container">
         <router-link to="/" class="nav-logo">
           <span class="logo-icon">📄</span>
-          <span class="logo-text">InvoicrGen</span>
+          <span class="logo-text">Invoicely</span>
         </router-link>
         
         <div class="nav-menu" :class="{ 'nav-menu-active': isMenuOpen }">
@@ -31,7 +31,7 @@
 
     <footer class="footer">
       <div class="footer-content">
-        <p>&copy; 2024 InvoicrGen. Professional invoice generation made simple.</p>
+        <p>&copy; 2024 Invoicely. Professional invoice generation made simple.</p>
       </div>
     </footer>
   </div>
