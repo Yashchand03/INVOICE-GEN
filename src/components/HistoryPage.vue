@@ -2,7 +2,7 @@
   <div class="history-page">
     <div class="container">
       <div class="page-header">
-        <h1>Invoice History</h1>
+        <h1>Invoicely History</h1>
         <p>View and manage all your created invoices</p>
       </div>
 
@@ -161,7 +161,7 @@
     <div v-if="showPreview" class="modal-overlay" @click="closePreview">
       <div class="modal-content" @click.stop>
         <div class="modal-header">
-          <h3>Invoice Preview</h3>
+          <h3>Invoicely Preview</h3>
           <button class="modal-close" @click="closePreview">×</button>
         </div>
         <div class="modal-body">
@@ -172,7 +172,7 @@
                 <h2>InvoicrGen</h2>
               </div>
               <div class="preview-invoice-info">
-                <h1>INVOICE</h1>
+                <h1>INVOICELY</h1>
                 <p><strong>Invoice #:</strong> {{ previewInvoice.invoiceNumber }}</p>
                 <p><strong>Date:</strong> {{ formatDate(previewInvoice.invoiceDate) }}</p>
                 <p><strong>Due Date:</strong> {{ formatDate(previewInvoice.dueDate) }}</p>

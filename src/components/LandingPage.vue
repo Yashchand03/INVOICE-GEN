@@ -6,11 +6,11 @@
         <div class="hero-content">
           <div class="hero-text">
             <h1 class="hero-title">
-              Professional Invoice Generation
+              Invoicely
               <span class="text-gradient">Made Simple</span>
             </h1>
             <p class="hero-subtitle">
-              Create, manage, and send professional invoices in minutes. 
+              Simple invoice creation for freelancers and small businesses. 
               Streamline your billing process with our intuitive platform.
             </p>
             <div class="hero-actions">
@@ -27,7 +27,7 @@
           <div class="hero-image">
             <div class="invoice-preview">
               <div class="invoice-header">
-                <h3>INVOICE</h3>
+                <h3>INVOICELY</h3>
                 <div class="invoice-number">#INV-2024-001</div>
               </div>
               <div class="invoice-body">
@@ -55,44 +55,44 @@
       <div class="container">
         <div class="section-header text-center">
           <h2>Why Choose InvoicrGen?</h2>
-          <p>Everything you need to create professional invoices quickly and efficiently</p>
+          <p>Everything you need to create simple invoices quickly.</p>
         </div>
         
         <div class="grid grid-3">
           <div class="feature-card card">
             <div class="feature-icon">⚡</div>
             <h3>Lightning Fast</h3>
-            <p>Create professional invoices in under 2 minutes with our streamlined process.</p>
+            <p>Create invoices in under 2 minutes with our easy process.</p>
           </div>
           
           <div class="feature-card card">
             <div class="feature-icon">🎨</div>
             <h3>Professional Design</h3>
-            <p>Clean, modern templates that make your invoices look professional and trustworthy.</p>
+            <p>Clean templates that make your invoices look professional.</p>
           </div>
           
           <div class="feature-card card">
             <div class="feature-icon">📱</div>
             <h3>Mobile Friendly</h3>
-            <p>Create and manage invoices from any device - desktop, tablet, or mobile.</p>
+            <p>Create and manage invoices from any device.</p>
           </div>
           
           <div class="feature-card card">
             <div class="feature-icon">💾</div>
             <h3>Secure Storage</h3>
-            <p>All your invoices are safely stored and easily accessible whenever you need them.</p>
+            <p>All your invoices are safely stored and easily accessible.</p>
           </div>
           
           <div class="feature-card card">
             <div class="feature-icon">🔄</div>
             <h3>Easy Editing</h3>
-            <p>Update invoice details anytime with our intuitive edit interface.</p>
+            <p>Update invoice details anytime with our simple edit interface.</p>
           </div>
           
           <div class="feature-card card">
             <div class="feature-icon">📊</div>
             <h3>History Tracking</h3>
-            <p>Keep track of all your invoices with our comprehensive history page.</p>
+            <p>Keep track of all your invoices with our history page.</p>
           </div>
         </div>
       </div>
