@@ -21,6 +21,9 @@
       </div>
     </nav>
 
+    <!-- Side Menu Drawer for mobile -->
+    <SideMenuDrawer :visible="isMenuOpen" @close="closeMenu" />
+
     <main class="main-content">
       <router-view v-slot="{ Component }">
         <transition name="page" mode="out-in">
@@ -38,8 +41,10 @@
 </template>
 
 <script>
+import SideMenuDrawer from './components/SideMenuDrawer.vue'
 export default {
   name: 'App',
+  components: { SideMenuDrawer },
   data() {
     return {
       isScrolled: false,
@@ -205,23 +210,7 @@ export default {
   }
   
   .nav-menu {
-    position: fixed;
-    top: 70px;
-    left: 0;
-    right: 0;
-    background: white;
-    flex-direction: column;
-    padding: 2rem;
-    gap: 1rem;
-    transform: translateY(-100%);
-    opacity: 0;
-    transition: all 0.3s ease;
-    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
-  }
-  
-  .nav-menu-active {
-    transform: translateY(0);
-    opacity: 1;
+    display: none;
   }
   
   .nav-toggle {
